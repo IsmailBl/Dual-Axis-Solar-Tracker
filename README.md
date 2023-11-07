@@ -29,9 +29,4 @@ Before getting started, ensure you have the following software installed:
 3. Utilize the Solar Monitor app (included in the files) to visualize the energy production data from the Arduino.
 4. Connect your phone to the Arduino board using the HC-05 Bluetooth module.
 
-## Acknowledgements
-
-We would like to express our gratitude to [name] for their valuable contributions and support in the development of this project.
-
-Thank you for your interest in our Solar Tracker with Arduino project!
 
