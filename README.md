@@ -1,4 +1,5 @@
 # Dual-Axis-Solar-Tracker
+![#](/Schematics/Schematics%20Capture.jpg)
 
 ## Overview
 
